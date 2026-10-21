@@ -39,6 +39,6 @@ Proyek ini bertujuan menerapkan teknologi machine learning dalam aplikasi web se
 
 ## Pengembang
 
-**Fatih366**
+**Fatihah Maulana**
 
-Proyek pembelajaran Artificial Intelligence dan pengembangan web.
+Untuk Memenuhi Tugas Matakuliah Kecerdasan Buatan
